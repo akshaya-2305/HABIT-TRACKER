@@ -1,0 +1,21 @@
+{
+  "name": "mern-auth-project",
+  "version": "1.0.0",
+  "description": "Complete MERN project with Express, Mongoose, JWT, bcrypt, React, Vite, and Tailwind CSS",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  },
+  "keywords": [
+    "mern",
+    "jwt",
+    "express",
+    "mongoose",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "ISC"
+}
